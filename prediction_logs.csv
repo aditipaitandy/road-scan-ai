@@ -1,0 +1,13 @@
+timestamp,filename,prediction,confidence,road_health,severity,saved_path,recommended_speed_kmh,risk_level,damage_timeline_years
+2026-03-28 21:45:43,waterlogged-hole-on-the-old-road-free-photo.jpg,Crack Detected,73.22,Poor,High Risk,saved_uploads\20260328_214543_waterlogged-hole-on-the-old-road-free-photo.jpg,,,
+2026-03-28 21:46:04,cleanroads.jpg,No Crack,96.45999908447266,Good,Safe Surface,saved_uploads\20260328_214604_cleanroads.jpg,,,
+2026-04-13 11:45:49,waterlogged-hole-on-the-old-road-free-photo.jpg,Crack Detected,76.30999755859375,Poor,High Risk,saved_uploads\20260413_114549_waterlogged-hole-on-the-old-road-free-photo.jpg,40.0,High Risk,1.5
+2026-04-13 11:48:35,smooth.jpg,No Crack,98.11000061035156,Good,Safe Surface,saved_uploads\20260413_114835_smooth.jpg,100.0,Safe,
+2026-04-13 11:48:53,pngtree-bad-road-pothole-on-the-asphalt-road-in-the-highlands-after-image_15734376.jpg,No Crack,63.91999816894531,Good,Safe Surface,saved_uploads\20260413_114853_pngtree-bad-road-pothole-on-the-asphalt-road-in-the-highlands-after-image_15734376.jpg,60.0,Caution,4.0
+2026-04-13 11:58:12,waterlogged-hole-on-the-old-road-free-photo.jpg,Crack Detected,76.30999755859375,Poor,High Risk,saved_uploads\20260413_115812_waterlogged-hole-on-the-old-road-free-photo.jpg,40.0,HIGH RISK,1.5
+2026-04-13 12:06:35,pngtree-bad-road-pothole-on-the-asphalt-road-in-the-highlands-after-image_15734376.jpg,No Crack,63.91999816894531,Good,Safe Surface,saved_uploads\20260413_120635_pngtree-bad-road-pothole-on-the-asphalt-road-in-the-highlands-after-image_15734376.jpg,60.0,CAUTION,4.0
+2026-04-15 15:28:24,camera-input-2026-04-15T09_58_18.951Z.jpg,Crack Detected,61.36000061035156,Poor,High Risk,saved_uploads\20260415_152824_camera-input-2026-04-15T09_58_18.951Z.jpg,50.0,ELEVATED,2.5
+2026-04-15 15:36:29,004.jpg,Crack Detected,88.18000030517578,Poor,High Risk,saved_uploads\20260415_153629_004.jpg,40.0,HIGH RISK,1.5
+2026-04-15 15:44:02,008.jpg,Crack Detected,93.19000244140624,Poor,High Risk,saved_uploads\20260415_154402_008.jpg,20.0,DANGER,0.5
+2026-04-15 15:46:08,005.jpg,Crack Detected,91.97000122070312,Poor,High Risk,saved_uploads\20260415_154608_005.jpg,20.0,DANGER,0.5
+2026-04-15 15:49:37,004.jpg,Crack Detected,88.18000030517578,Poor,High Risk,saved_uploads\20260415_154937_004.jpg,40.0,HIGH RISK,1.5
