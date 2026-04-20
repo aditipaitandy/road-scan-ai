@@ -1,8 +1,10 @@
 streamlit
 tensorflow
 numpy
-opencv-python
-pillow
 pandas
+pillow
+opencv-python-headless
+matplotlib
 plotly
-requests
+folium
+streamlit-folium
