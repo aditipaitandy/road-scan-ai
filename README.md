@@ -1,6 +1,6 @@
 # ⬡ RoadScan AI: AI-Powered Road Infrastructure & GPS Health Scanner
 
-[![Streamlit App](https://static.streamlit.io/badge_badge.svg)](https://road-scan-ai-pr2s64pwmzfygdtcwdzumq.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-App-FF4B4B?style=flat&logo=streamlit)](https://road-scan-ai-pr2s64pwmzfygdtcwdzumq.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![Framework](https://img.shields.io/badge/Framework-Streamlit-FF4B4B.svg)](https://streamlit.io/)
 [![Deep Learning](https://img.shields.io/badge/Model-MobileNetV2-orange.svg)](https://keras.io/)
